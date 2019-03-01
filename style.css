@@ -1,0 +1,56 @@
+
+.grid{
+  display: grid;
+  grid-template-areas: 'myArea myArea myArea myArea myArea';
+  padding: auto;
+  grid-gap: 5	px;
+  background-color: #1A1C5B;
+  padding: 15px;
+}
+	.grid > div {
+  text-align: center;
+  color: white;
+  padding: 0px 10px;
+  font-size: 15px;
+}
+
+.col-sm-8{
+	padding: 20px 20px 20px 20px;
+}
+#notes{
+  width:85%;
+  background-color:  #1A1C5B;
+}
+#nb{
+  background-color: #1A1C5B;
+  margin-right: 40px;
+  width: 7%;
+
+}
+body{
+  background-color: #C6BCD8;
+}
+#button{
+  background-color: #1A1C5B;
+  border-radius: 20px;
+  width: 16%;
+}
+.block-2{
+  padding:5%;
+}
+#vivek{
+  font-size:3em;
+}
+.block-3{
+  padding :5%;
+}
+#insight{
+  width:60%;
+}
+#cities{
+  width:85%;
+}
+#country{
+  width:85%;
+  margin-left:1.3%;
+}
